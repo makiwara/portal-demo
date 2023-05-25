@@ -1,6 +1,7 @@
 # portal-demo
-Place Portal Background Renderer Demo
+Place Portal Background Renderer Demo.
 
-Based on Pannellum.
+Only Chrome is supported.
+
 https://humanemagica.com/NPUI/Pano/test.html
 
